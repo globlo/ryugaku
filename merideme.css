@@ -14,7 +14,7 @@
 .main{
     padding-top:20px;
   padding-left: 20px;
-  padding-right: 396px;
+  /*padding-right: 396px;*/
   padding-bottom: 40px;
 }
 .catch{padding-bottom:20px;}
@@ -46,6 +46,9 @@
 }
 .r1 { padding-left:20px;
       padding-top:30px;
+}
+.r11,.r12,.r21,.r22,.r23{
+    padding-top: 40px;
 }
 .r2 {
     padding-left: 20px;
