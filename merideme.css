@@ -8,38 +8,36 @@
   font-size: 55px;
     font-family: "Yu Mincho";
     float: left;
-    padding: 20px 20px 0px 20px;
+    padding: 20px 20px 20px 20px;
     color: #00BFFF;
 }
 
 .main{
-    padding-top:20px;
+    padding-top:40px;
   padding-left: 80px;
   padding-right:80px;
   /*padding-right: 396px;*/
-  padding-bottom: 40px;
+  padding-bottom: 70px;
 }
 .catch {
     padding-bottom: 20px;
     font-size: 25px;
 }
-.t1{
+.t1 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
-    background: linear-gradient(transparent 70%, #a8eaff 70%);
+    background: linear-gradient(transparent 70%, #00bfff 70%);
     width: 370px;
-
     font-size: 130%;
 }
-.cc12 {   padding-top: 20px;}
-.cc13 { padding-top: 20px;}
+.cc12,.cc13 {   padding-top: 20px;}
 
 .t2 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
-    background: linear-gradient(transparent 70%, #a8eaff 70%);
+    background: linear-gradient(transparent 70%, #00bfff 70%);
     width: 400px;
     font-size: 130%;
 }
@@ -75,14 +73,42 @@
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
-    background: linear-gradient(transparent 70%, #a8eaff 70%);
+    background: linear-gradient(transparent 70%, #00bfff 70%);
     width: 480px;
     font-size: 130%;
 }
-.footer{
-  background-color: #F8F8FF;
-  float:left;
-  padding-left: 20px;
+
+.d1 {
+    padding-top: 20px;
+    padding-left: 10px;
+    border-bottom: 1px double #333;
+    background: linear-gradient(transparent 70%, #ff6347 70%);
+    width: 350px;
+    font-size: 130%;
+}
+.d2 {
+    padding-top: 20px;
+    padding-left: 10px;
+    border-bottom: 1px double #333;
+    background: linear-gradient(transparent 70%, #ff6347 70%);
+    width: 480px;
+    font-size: 130%;
+}
+.d3 {
+    padding-top: 20px;
+    padding-left: 10px;
+    border-bottom: 1px double #333;
+    background: linear-gradient(transparent 70%, #ff6347 70%);
+    width: 430px;
+    font-size: 130%;
+}
+.d11, d12,.d12, .d2-con, .d3-con{
+    padding-top:20px;
+}
+.footer {
+    background-color: #F8F8FF;
+    float: left;
+    padding-left: 20px;
 }
 .Author{
   font-size: 21px;
