@@ -11,6 +11,20 @@
     padding: 20px 20px 20px 20px;
     color: #00BFFF;
 }
+.tp{padding-bottom: 30px;
+}
+.tiMok{
+    padding-left:30px;
+}
+.mokuji {
+    background: #f3fbff;
+    border: 2px skyblue dashed;
+    padding-bottom: 200px;
+    padding-top:10px;
+}
+.empty{
+    padding-bottom:60px;
+}
 
 .main{
     padding-top:40px;
@@ -23,7 +37,7 @@
     padding-bottom: 20px;
     font-size: 25px;
 }
-.t1 {
+#t1 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
@@ -33,7 +47,7 @@
 }
 .cc12,.cc13 {   padding-top: 20px;}
 
-.t2 {
+#t2 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
@@ -69,7 +83,7 @@
 }
 .r3-con { padding-left: 80px; }
 
-.t3 {
+#t3{
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
@@ -77,8 +91,16 @@
     width: 480px;
     font-size: 130%;
 }
+#t4 {
+    padding-top: 20px;
+    padding-left: 10px;
+    border-bottom: 1px double #333;
+    background: linear-gradient(transparent 70%, #00bfff 70%);
+    width: 500px;
+    font-size: 130%;
+}
 
-.d1 {
+#d1 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
@@ -86,15 +108,15 @@
     width: 350px;
     font-size: 130%;
 }
-.d2 {
+#d2 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
     background: linear-gradient(transparent 70%, #ff6347 70%);
-    width: 480px;
+    width: 350px;
     font-size: 130%;
 }
-.d3 {
+#d3 {
     padding-top: 20px;
     padding-left: 10px;
     border-bottom: 1px double #333;
@@ -102,7 +124,15 @@
     width: 430px;
     font-size: 130%;
 }
-.d11, d12,.d12, .d2-con, .d3-con{
+#d4 {
+    padding-top: 20px;
+    padding-left: 10px;
+    border-bottom: 1px double #333;
+    background: linear-gradient(transparent 70%, #ff6347 70%);
+    width: 390px;
+    font-size: 130%;
+}
+.d11, d12,.d12, .d2-con, .d3-con, .d4-con, .t4-con{
     padding-top:20px;
 }
 .footer {
